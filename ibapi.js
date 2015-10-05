@@ -57,9 +57,7 @@ function ib_load_articles(page, onload, onerror) {
                     });
                 }
 
-                console.log(results);
-
-                onload(22)
+                onload(results)
             }
             else {
                 onerror(this.status);
