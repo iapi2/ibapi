@@ -8,7 +8,7 @@ Please feel free to pull request. Any enhancements or bug fixes are always accep
 
 Licence
 ----
-This program is distributed under `public domain` license. So you can use, edit and redistribute this source without any permission.
+This program is distributed under `public domain` license. So you can use, edit or redistribute this source without any permission.
 
 ib_load_articles
 ----
