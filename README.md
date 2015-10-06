@@ -3,12 +3,14 @@ ibapi
 Unofficial ILBE api written by javascript.
 <br>
 Remember that this source may not work when the target site's markup structure changed.
-<br>
-Please feel free to pull request. Any enhancements or bug fixes are always accepted.
 
 Licence
 ----
 This program is distributed under `public domain` license. So you can use, edit or redistribute this source without any permission.
+
+SourceCode Contribution
+----
+Please feel free to pull request. Any enhancements or bug fixes are always accepted.
 
 ib_load_articles
 ----
