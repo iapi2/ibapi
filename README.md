@@ -1,6 +1,6 @@
 ibapi
 ====
-Unofficial ILBE api written in javascript.
+Unofficial ILBE api written in javascript with zero-dependency.
 <br>
 Remember that this source may not work when the target site's markup structure changed.
 
