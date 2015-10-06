@@ -11,7 +11,7 @@ This program is distributed under `public domain` license. So you can use, edit 
 SourceCode Contribution
 ----
 Please feel free to pull request. Any enhancements or bug fixes are always accepted.<br>
-I prefer the snake_case coding rule. So this project also follows snake_case rule. See [this](http://zetawiki.com/wiki/%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC_%ED%91%9C%EA%B8%B0%EB%B2%95) link which discribes the snake_case rule.
+I prefer the snake_case coding rule. So this project also follows that. See [this](http://zetawiki.com/wiki/%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC_%ED%91%9C%EA%B8%B0%EB%B2%95) link which discribes the snake_case rule.
 
 ib_load_articles
 ----
