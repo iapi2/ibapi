@@ -46,12 +46,12 @@ ib_load_articles(
   });
 ```
 
-lb_load_article
+ib_load_article
 ----
 Fetches a single article of the specified id.
 
 * __parameters__
-  * page : a article id which you wants to load
+  * id : a article id which you wants to load
   * onload : a callback for handling the article loaded
   * onerror : a callback for handling the error step
   
